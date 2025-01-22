@@ -1,6 +1,9 @@
 # 42Madrid Piscina Projects
 
-<a href="https://ibb.co/jMXSqRF"><img src="https://i.ibb.co/2t4TRNB/que-es.jpg" alt="que-es" border="0"></a>
+<p align="center">
+  <img src="https://i.ibb.co/2t4TRNB/que-es.jpg" alt="Piscina 42Madrid">
+</p>
+
 ¡Bienvenido a mis proyectos de la piscina en 42Madrid de Fundación Telefónica! Este repositorio contiene los proyectos realizados durante el programa intensivo de desarrollo de software.
 
 ## Tabla de Contenidos
