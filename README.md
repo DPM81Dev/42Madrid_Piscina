@@ -97,4 +97,4 @@ Licencia
 Este proyecto está licenciado bajo la Licencia MIT - mira el archivo LICENSE para más detalles.
 
 Agradecimientos
-Un agradecimiento especial a todo el equipo de 42Madrid y Fundación Telefónica por esta increíble oportunidad de aprendizaje y crecimiento.
+<p align="center"> **Un agradecimiento especial a todo el equipo de 42Madrid y Fundación Telefónica por esta increíble oportunidad de aprendizaje y crecimiento.**</p>
