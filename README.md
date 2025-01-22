@@ -61,7 +61,7 @@ ft_strcpy.c
 
 ft_bzero.c
 
-Compilación y ejecución:
+##Compilación y ejecución:
 
 sh
 gcc -c ft_strlen.c ft_strcpy.c ft_bzero.c
@@ -80,7 +80,7 @@ Compilación y ejecución:
 sh
 gcc file_read.c file_write.c -o file_management
 ./file_management
-Contribuciones
+##Contribuciones
 ¡Contribuciones son bienvenidas! Si deseas contribuir a estos proyectos, por favor sigue estos pasos:
 
 Haz un fork de este repositorio.
@@ -93,10 +93,10 @@ Sube tus cambios (git push origin feature/nueva-funcionalidad).
 
 Abre una solicitud de extracción (Pull Request).
 
-Licencia
+##Licencia
 Este proyecto está licenciado bajo la Licencia MIT - mira el archivo LICENSE para más detalles.
 
-Agradecimientos
+##Agradecimientos
 
 **Un agradecimiento especial a todo el equipo de 42Madrid y Fundación Telefónica por esta increíble oportunidad de aprendizaje y crecimiento.**
 
